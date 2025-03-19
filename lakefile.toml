@@ -1,0 +1,10 @@
+name = "keccak-sha3"
+version = "0.1.0"
+defaultTargets = ["keccak-sha3"]
+
+[[lean_lib]]
+name = "KeccakSha3"
+
+[[lean_exe]]
+name = "keccak-sha3"
+root = "Main"
