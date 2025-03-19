@@ -10,7 +10,7 @@ This repository contains a Lean 4 implementation of the Keccak and SHA3 hash fun
 
 ## Testing
 
-Since the "Ethereum-like" `keccak256` was my main motivation for creating this repo, it is the only hash function that comes with some tests.
+Since the "Ethereum-like" `keccak256` was the main motivation for creating this repo, it is the only hash function that comes with some tests.
 After cloning the repo, you can run these tests via:
 
 ```bash
